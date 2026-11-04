@@ -205,6 +205,14 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Local DataDoctor state and build/test outputs
+backend/storage/
+node_modules/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+*.log
+
 # Ruff stuff:
 .ruff_cache/
 
