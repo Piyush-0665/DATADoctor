@@ -1,9 +1,5 @@
 # DataDoctor AI 🩺
 
-<div align="center">
-
-![DataDoctor Dashboard](docs/dashboard-empty.png)
-
 **Dataset debugging, human-approved repair, and evidence-based ML evaluation**
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/downloads/)
@@ -12,8 +8,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 [Features](#-features) • [Quick Start](#-quick-start) • [Architecture](#-architecture) • [Usage](#-usage) • [API](#-api-endpoints)
-
-</div>
 
 ---
 
